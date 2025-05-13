@@ -1,3 +1,7 @@
+// MiniTetris
+// written by Andrea Giani
+//
+
 using System;
 using System.Timers;
 using static System.Console;
