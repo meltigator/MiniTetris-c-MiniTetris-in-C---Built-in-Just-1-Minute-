@@ -7,9 +7,13 @@ This quick experiment showcases how intuitive and fast development with C# can b
 🔹 Features: 
 
 ✅ Built in 60 seconds—yet fully functional. 
+
 ✅ Simple and nostalgic, bringing back retro gaming vibes. 
+
 ✅ Runs smoothly with bash on MSYS2. 
+
 ✅ Open-source, available on GitHub!
+
 
 💡 Curious? try it 📢 Feedback and ideas are welcome! What’s your fastest coding challenge?
 
