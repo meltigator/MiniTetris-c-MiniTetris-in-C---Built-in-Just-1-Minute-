@@ -4,6 +4,7 @@ Ever wondered how powerful and versatile C# is? In just 1 minute, I created a Mi
 
 This quick experiment showcases how intuitive and fast development with C# can be, and how fun it is to push boundaries with a minimalist idea!
 
+
 🔹 Features: 
 
 ✅ Built in 60 seconds—yet fully functional. 
@@ -15,6 +16,8 @@ This quick experiment showcases how intuitive and fast development with C# can b
 ✅ Open-source, available on GitHub!
 
 
+
 💡 Curious? try it 📢 Feedback and ideas are welcome! What’s your fastest coding challenge?
+
 
 #CSharp #MSYS2 #GameDev #OpenSource #ConsoleGames #RapidDevelopment
