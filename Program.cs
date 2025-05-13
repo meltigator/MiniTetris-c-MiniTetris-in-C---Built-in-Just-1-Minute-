@@ -144,7 +144,7 @@ class TetrisGame
 
         if (exit) {
             ResetConsole();
-            WriteLine("Game Over! Punteggio finale: " + Score);
+            WriteLine("Game Over! Final Score: " + Score);
             Thread.Sleep(2000);
             Environment.Exit(0);
         }
@@ -193,20 +193,20 @@ class TetrisGame
         Write("C# MINITETRIS");
         
         SetCursorPosition(Width * 2 + 5, 4);
-        Write("Punteggio: " + Score);
+        Write("Score: " + Score);
         
         SetCursorPosition(Width * 2 + 5, 6);
-        Write("Controlli:");
+        Write("Checks:");
         SetCursorPosition(Width * 2 + 5, 7);
-        Write("A - Sinistra");
+        Write("A - Left");
         SetCursorPosition(Width * 2 + 5, 8);
-        Write("D - Destra");
+        Write("D - Right");
         SetCursorPosition(Width * 2 + 5, 9);
-        Write("S - Giù");
+        Write("S - Below");
         SetCursorPosition(Width * 2 + 5, 10);
-        Write("Q/E - Ruota");
+        Write("Q/E - Wheel");
         SetCursorPosition(Width * 2 + 5, 11);
-        Write("ESC - Esci");
+        Write("ESC - Done");
     }
     
     static void SetPieceColor(int colorIndex)
